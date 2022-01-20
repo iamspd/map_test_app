@@ -1,0 +1,25 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=77:83:A6:D1:A3:29:94:C9:2B:4A:72:E3:0A:00:E7:59:00:67:A8:E4%3Bcom.korechi.golf.fragments
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.korechi.golf.view.fragments
+
+    SHA-1 certificate fingerprint:
+    77:83:A6:D1:A3:29:94:C9:2B:4A:72:E3:0A:00:E7:59:00:67:A8:E4
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBrLwgfH7nUTiTqtJrgaFvLrAra4Lixplo</string>
+</resources>
